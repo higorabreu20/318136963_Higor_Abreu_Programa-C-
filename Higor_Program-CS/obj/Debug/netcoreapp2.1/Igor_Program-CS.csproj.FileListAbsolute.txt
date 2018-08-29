@@ -1,0 +1,11 @@
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\bin\Debug\netcoreapp2.1\Igor_Program-CS.deps.json
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\bin\Debug\netcoreapp2.1\Igor_Program-CS.runtimeconfig.json
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\bin\Debug\netcoreapp2.1\Igor_Program-CS.runtimeconfig.dev.json
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\bin\Debug\netcoreapp2.1\Igor_Program-CS.dll
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\bin\Debug\netcoreapp2.1\Igor_Program-CS.pdb
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\obj\Debug\netcoreapp2.1\Igor_Program-CS.csprojAssemblyReference.cache
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\obj\Debug\netcoreapp2.1\Igor_Program-CS.csproj.CoreCompileInputs.cache
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\obj\Debug\netcoreapp2.1\Igor_Program-CS.AssemblyInfoInputs.cache
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\obj\Debug\netcoreapp2.1\Igor_Program-CS.AssemblyInfo.cs
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\obj\Debug\netcoreapp2.1\Igor_Program-CS.dll
+C:\Users\BR\source\repos\Igor_Program-CS\Igor_Program-CS\obj\Debug\netcoreapp2.1\Igor_Program-CS.pdb
